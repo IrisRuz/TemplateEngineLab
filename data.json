@@ -1,0 +1,17 @@
+[
+    {
+        "name": "RR",
+        "age": 35,
+        "city": "San Francisco"
+    },
+    {
+        "name": "Ann Ispen",
+        "age": 30,
+        "city": "Los Angeles"
+    },
+    {
+        "name": "Tom Hanks",
+        "age": 22,
+        "city": "Chicago"
+    }
+]
