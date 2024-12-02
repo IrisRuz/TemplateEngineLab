@@ -13,6 +13,10 @@ header {
     padding: 1rem 0;
 }
 
+h1 {
+    color: blue; /* Change the color of the h1 header */
+}
+
 main {
     padding: 20px;
 }
